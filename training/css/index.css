@@ -1,0 +1,60 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.top_line{
+	height:3px;
+	background-color:#13a08d;
+	width:100%;
+}
+
+.headerBox{
+	width:960px;
+	margin:0 auto;
+	height:125px;
+}
+
+.headerBox h1{
+	float:left;
+	margin-top:52px;
+}
+
+.headerBox h2{
+	float:right;
+	margin-top:40px;
+}
+
+.main{
+	width:960px;
+	margin:0 auto;
+}
+
+.content{
+	width:960px;
+	margin:0 auto;
+}
+
+ul.gyoumu li{
+	float:left;
+	margin-right:20px;
+}
+
+ul.gyoumu{
+	padding-left:10px;
+}
+
+.green{
+	color:#13a08d;
+}
+
+.end{
+	background-color:#13a08d;
+	width:100%;
+	padding-top:40px;
+	padding-bottom:40px;
+	color:#FFF;
+}
+
+.end p{
+	width:960px;
+	margin:0 auto;
+}

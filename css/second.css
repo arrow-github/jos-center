@@ -1,0 +1,250 @@
+@charset "utf-8";
+
+/*ホーム*/
+.consultation {
+	background-image: url(../img/index/img_consultation.jpg);
+	background-repeat: no-repeat;
+	height: 312px;
+	width: 1000px;
+	margin-top: 60px;
+	}	
+.consultation p {
+	padding-top: 180px;
+	padding-left: 40px;	
+	}
+.tour {
+	background-image: url(../img/index/img_tour.jpg);
+	background-repeat: no-repeat;
+	height: 312px;
+	width: 1000px;
+	margin-top: 30px;
+	}	
+.tour p {
+	padding-top: 180px;
+	padding-left: 40px;	
+	}
+.voice {
+	margin-top: 60px;
+	margin-bottom: 60px;
+	}
+.voice_in {
+	overflow: hidden;	
+	}
+.voice_in dl {
+	float: left;
+	margin-top: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 14px;
+	padding-top: 65px;
+	height: 365px;
+	}
+.voice_in dl dt{
+	margin-left: 150px;
+	}
+.voice_in dl dd{
+	margin-top: 40px;
+	}	
+.voice_1 {
+	background-image: url(../img/index/img_voice1.png);
+	background-repeat: no-repeat;
+	width: 293px;
+	}
+.voice_2 {
+	background-image: url(../img/index/img_voice2.png);
+	background-repeat: no-repeat;
+	width: 293px;
+	}
+.voice_3 {
+	background-image: url(../img/index/img_voice3.png);
+	background-repeat: no-repeat;
+	width: 294px;
+	}
+	
+/*紹介センターとは*/
+.point {
+	overflow: hidden;
+	width: 886px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+.point dt {
+	background-image: url(../img/second/icon_point.gif);
+	background-repeat: no-repeat;
+	font-size: 20px;
+	font-weight: bold;
+	color: #466722;
+	height: 69px;
+	padding-top: 35px;
+	padding-left: 120px;
+	margin-bottom: 10px;
+}
+.point dd {
+	padding-left: 120px;	
+	}	
+.point dd img {
+	float: left;
+	margin-right: 20px;
+	}
+
+/*ご相談の流れ*/
+.flow {
+	overflow: hidden;
+	width: 798px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 40px;
+	margin-bottom: 40px;
+	border-radius: 20px;
+	border: 4px solid #d5ccb4;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 20px;
+	padding-left: 40px;
+}
+.flow dt {
+	font-size: 22px;
+	font-weight: bold;
+	color: #466722;
+	height: 69px;
+	padding-top: 35px;
+	padding-left: 120px;
+}
+.flow_1 {
+	background-image: url(../img/second/icon_step1.gif);
+	background-repeat: no-repeat;
+}
+.flow_2 {
+	background-image: url(../img/second/icon_step2.gif);
+	background-repeat: no-repeat;
+}
+.flow_3 {
+	background-image: url(../img/second/icon_step3.gif);
+	background-repeat: no-repeat;
+}
+.flow_4 {
+	background-image: url(../img/second/icon_step4.gif);
+	background-repeat: no-repeat;
+}
+.flow dd {
+	padding-left: 120px;	
+	}	
+.arrow {
+	text-align: center;
+	}
+	
+/*アクセス*/
+table {
+   table-layout: fixed;
+   width: 100%;
+}
+.table {
+	border: 1px #ccc solid;
+	border-collapse: collapse;
+	border-spacing: 0;
+	margin-top: 40px;
+}
+
+.table th {
+    padding: 5px;
+    border: #ccc solid;
+    border-width: 0 0 1px 1px;
+    background: #F5F5F5;
+    font-weight: bold;
+    line-height: 120%;
+    text-align: center;
+}
+.table td {
+    padding: 5px;
+    border: 1px #ccc solid;
+    border-width: 0 0 1px 1px;
+    text-align: center;
+}
+
+/*お問い合わせ*/
+.contact_tel {
+	overflow: hidden;
+	border-radius: 20px;
+	border: 4px solid #d5ccb4;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+	height: 179px;
+	background-image: url(../img/second/icon_tel.png);
+	background-repeat: no-repeat;
+	background-position:20pt 20pt;
+	margin-bottom: 40px;
+}
+.contact_fax {
+	overflow: hidden;
+	border-radius: 20px;
+	border: 4px solid #d5ccb4;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+	height: 179px;
+	background-image: url(../img/second/icon_fax.png);
+	background-repeat: no-repeat;
+	background-position:20pt 20pt;
+	margin-bottom: 40px;
+}
+.contact_mail {
+	overflow: hidden;
+	border-radius: 20px;
+	border: 4px solid #d5ccb4;
+	padding-top: 20px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+	padding-left: 40px;
+	height: 179px;
+	background-image: url(../img/second/icon_mail.png);
+	background-repeat: no-repeat;
+	background-position:20pt 20pt;
+}
+.contact_in {
+	margin-top: 20px;
+	}
+.contact_in dt {
+	font-size: 26px;
+	font-weight: bold;
+	color: #466722;
+	padding-left: 200px;
+}
+.contact_in dd {
+	padding-left: 200px;
+	}	
+
+.owner{
+	width: 95%;
+	margin:0 auto;
+	padding:0 0 15px;
+}
+.owner table{
+	width:100%;
+	border-top:solid 1px #ccc;
+	border-left:solid 1px #ccc;
+	margin-bottom:30px;
+}
+.owner table th{
+	width:25%;
+	padding:10px;
+	font-weight:bold;
+	background:#fafafa;
+	border-right:solid 1px #ccc;
+	border-bottom:solid 1px #ccc;
+	vertical-align:middle;
+}
+.owner table td{
+	padding:10px;
+	border-right:solid 1px #ccc;
+	border-bottom:solid 1px #ccc;
+}
+.owner table td p{ padding-bottom:0;}
+
+
+
+	

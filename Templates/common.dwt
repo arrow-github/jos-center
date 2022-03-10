@@ -1,0 +1,117 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="format-detection" content="telephone=no">
+<!-- TemplateBeginEditable name="meta" -->
+<meta name="keywords" content="有料老人ホーム,高齢者住宅,グループホーム,関西,大阪,日本老人ホーム紹介センター,入居,相談" />
+<meta name="description" content="老人ホーム・高齢者向け住宅探しなら日本老人ホーム紹介センター。相談無料!大阪梅田の窓口でアドバイザーに直接相談。最適な老人ホームを紹介いたします。" />
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>日本老人ホーム紹介センター｜入居相談無料!大阪梅田の窓口でアドバイザーに直接相談。最適な老人ホームを紹介いたします。</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="link" -->
+<link rel="canonical" href="http://center.jos-net.com/">
+<link href="../css/reset.css" rel="stylesheet" type="text/css">
+<link href="../css/common.css" rel="stylesheet" type="text/css">
+<link href="../css/second.css" rel="stylesheet" type="text/css">
+<!-- TemplateEndEditable -->
+<script type="text/javascript" src="../js/jquery.js"></script>
+<script type="text/javascript" src="../js/rollover.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+$(function() {
+    var topBtn = $('.backtotop');    
+    //最初はボタンを隠す
+    topBtn.hide();
+    //スクロールが300に達したらボタンを表示させる
+    $(window).scroll(function () {
+        if ($(this).scrollTop() > 300) {
+            topBtn.fadeIn();
+        } else {
+            topBtn.fadeOut();
+        }
+    });
+    //スクロールしてトップに戻る
+    //500の数字を大きくするとスクロール速度が遅くなる
+    topBtn.click(function () {
+        $('body,html').animate({
+            scrollTop: 0
+        }, 500);
+        return false;
+    });
+});
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="wrapper">
+<h1>日本老人ホーム紹介センターは入居相談無料!大阪梅田の窓口でアドバイザーに直接相談。最適な老人ホームを紹介いたします。</h1>
+
+<div id="header">
+<p class="header_left"><a href="../index.html"><img src="../img/common/logo.gif" alt="日本老人ホーム紹介センター"></a></p>
+<p class="header_right"><a href="tel:0120-577-889"><img src="../img/common/tel.gif" alt="0120-577-889"></a></p>
+</div>
+
+<div id="top"><!-- TemplateBeginEditable name="mainimage" -->
+  <p><img src="../img/index/top_main.jpg" alt="メインイメージ"></p>
+<!-- TemplateEndEditable --></div>
+
+<div id="wrapper_navi">
+<ul id="globalnavi">
+    <li><a href="../index.html" title="ホーム"><img src="../img/common/menu_1.png" alt="ホーム"></a></li>
+    <li><a href="../company.html" title="紹介センター"><img src="../img/common/menu_2.png" alt="紹介センター"></a></li>
+    <li><a href="../flow.html" title="ご相談の流れ"><img src="../img/common/menu_3.png" alt="ご相談の流れ"></a></li>
+    <li><a href="../access.html" title="アクセス"><img src="../img/common/menu_4.png" alt="アクセス"></a></li>
+    <li><a href="../contact.html" title="お問い合わせ"><img src="../img/common/menu_5.png" alt="お問い合わせ"></a></li>
+</ul>
+<!--wrapper_navi--></div>
+
+<div id="contents">
+<!-- TemplateBeginEditable name="contents" -->
+
+
+
+<!-- TemplateEndEditable -->
+  <p class="contact"><a href="tel:0120-577-889"><img src="../img/common/img_contact.jpg" alt="お電話でのお問い合わせはこちら。0120-577-889"></a></p>
+<!--contents--></div>
+
+<div class="backtotop" align="center">
+<a href="#header">▲</a>
+</div>
+
+<div id="footer">
+<div id="footer_in">
+<div class="footer_left">
+<p><img src="../img/common/footer_logo.gif" alt="日本老人ホーム紹介センター"></p>
+<p>〒530-0001<br>
+大阪府大阪市北区梅田1丁目11-4<br>
+大阪駅前第４ビル１階<br>
+TEL:<a href="tel:06-6348-0165">06-6348-0165</a><br>
+FAX:06-6348-5165</p>
+</div>
+<div class="footer_right">
+<p><a href="tel:0120-577-889"><img src="../img/common/footer_tel.gif" alt="お気軽にご相談・お問い合わせください。0120-577-889"></a></p>
+<ul>
+<li><a href="../index.html">ホーム</a></li>
+<li><a href="../company.html">紹介センターとは</a></li>
+<li><a href="../flow.html">ご相談の流れ</a></li>
+<li><a href="../access.html">アクセス</a></li>
+<li><a href="../contact.html">お問い合わせ</a></li>
+<li><a href="../owner.html">事業用地情報募集</a></li>	
+</ul>
+</div>
+<div class="footer_map">
+<p><img src="../img/common/center_map.gif" alt="日本老人ホーム紹介センター地図"></p>
+</div>
+<p><a href="http://jos-net.com/"><img src="http://jos-net.com/img/banner01.jpg" title="高齢者施設検索サイト、いいケアネット" alt="専門家が実質無料で高齢者施設選びをお手伝い！いいケアネット" border="0" /></a></p>
+<!--footer_in--></div>
+<address>Copyright&copy;2012&nbsp;一般社団法人JOS&nbsp;All&nbsp;rights&nbsp;reserved.</address>
+<!--footer--></div>
+
+<!--wrapper--></div>
+
+</body>
+</html>
